@@ -1,0 +1,8 @@
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\bin\Debug\Prime number.exe.config
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\bin\Debug\Prime number.exe
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\bin\Debug\Prime number.pdb
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\obj\Debug\Prime number.csproj.AssemblyReference.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\obj\Debug\Prime number.csproj.SuggestedBindingRedirects.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\obj\Debug\Prime number.csproj.CoreCompileInputs.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\obj\Debug\Prime number.exe
+C:\Users\elsha\OneDrive\سطح المكتب\Prime number\Prime number\obj\Debug\Prime number.pdb
