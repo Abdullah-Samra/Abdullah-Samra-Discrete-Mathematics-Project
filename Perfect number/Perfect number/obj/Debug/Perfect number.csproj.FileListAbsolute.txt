@@ -1,0 +1,8 @@
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\bin\Debug\Perfect number.exe.config
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\bin\Debug\Perfect number.exe
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\bin\Debug\Perfect number.pdb
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\obj\Debug\Perfect number.csproj.AssemblyReference.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\obj\Debug\Perfect number.csproj.SuggestedBindingRedirects.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\obj\Debug\Perfect number.csproj.CoreCompileInputs.cache
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\obj\Debug\Perfect number.exe
+C:\Users\elsha\OneDrive\سطح المكتب\Perfect number\Perfect number\obj\Debug\Perfect number.pdb
